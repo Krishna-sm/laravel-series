@@ -2,4 +2,4 @@
 - ## [Installtion](/1.installation)
 - ## [Routing](/2.routing)
 - ## [Controllers](controllers)
-- ## [Middlewares](controllers)
+- ## [Middlewares](middlewares)
